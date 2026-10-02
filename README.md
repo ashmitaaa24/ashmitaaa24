@@ -7,9 +7,28 @@
 
 ## 👩‍💻 About Me
 
-| | |
-|---|---|
-| 🎓 **Computer Science Student** exploring the world of technology<br><br>💻 I enjoy building things, solving problems, and understanding how software works<br><br>🧠 Currently diving deeper into **DSA, Web Development & Programming**<br><br>🔥 Practicing on **LeetCode** and continuously challenging myself with new problems<br><br>🌱 Learning something new, breaking something, fixing it — and learning again<br><br>🚀 **Future goal:** turn ideas into useful software that people actually enjoy using | <a href="https://leetcode.com/u/ashmitaa24/"><img src="https://leetcard.jacoblin.cool/ashmitaa24?ext=activity&font=Fira%20Code&colors=282a36,343746,f8f8f2,6272a4,ff79c6,bd93f9,8be9fd,50fa7b" alt="Ashmita's LeetCode Stats" width="100%"></a> |
+<table>
+<tr>
+<td width="58%" valign="top">
+
+🎓 <b>Computer Science Student</b> exploring the world of technology<br><br>
+💻 I enjoy building things, solving problems, and understanding how software works<br><br>
+🧠 Currently diving deeper into <b>DSA, Web Development & Programming</b><br><br>
+🔥 Practicing on <b>LeetCode</b> and continuously challenging myself with new problems<br><br>
+🌱 Learning something new, breaking something, fixing it — and learning again<br><br>
+🚀 <b>Future goal:</b> turn ideas into useful software that people actually enjoy using
+
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<a href="https://leetcode.com/u/ashmitaa24/">
+<img src="https://leetcard.jacoblin.cool/ashmitaa24?ext=activity&font=Fira%20Code&colors=282a36,343746,f8f8f2,6272a4,ff79c6,bd93f9,8be9fd,50fa7b" width="95%">
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 ---
